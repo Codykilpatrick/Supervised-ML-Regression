@@ -28,4 +28,8 @@ The dataset has the following features:
 - Python
 - Git
 
+## Attributions
+- CCP games
+- everef.net
+
 ## [Link to final report](https://docs.google.com/document/d/1RkVIY1f_A61r1zoL2eDe_r9xzNFJhfKKFKhm9LO14bk/edit)
