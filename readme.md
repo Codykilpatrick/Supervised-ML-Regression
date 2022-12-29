@@ -34,7 +34,7 @@ The dataset has the following features:
 - Python
 - Git
 
-## Attributions
+## Attributions 👥
 - CCP games
 - everef.net
 
