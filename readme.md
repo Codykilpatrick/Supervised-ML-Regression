@@ -2,8 +2,30 @@ Eve Online is a Massive Multiplayer Online Role Playing Game. Players are set in
 
 Goal to predict the average price of an item.
 
-Models used:
-Linear Regression
-Lasso Regression
-Ridge Regression
-ElasticNet CV
+## Features of the data 📀
+The dataset has the following features:
+- volume: The ammount that specific item was traded in one region
+- order_count: How many individual buy and sell requests were placed on the market
+- lowest: The lowest price an item sold for
+- average: The average price an item sold for
+- highest: The highest price an item sold for
+- highlow_difference: The difference between the highest and item sold for and the lowest.
+- type_id: The specific ID associated with each unique item.
+- typename: The ingame name of each item correlating to the type_id
+- category_id: The specific code associated with each unqiue category of item
+- categoryname: The classification name that encompasses all group names.
+- group_id: The specific code associated with each unique group.
+- groupname: The classification name that encompasses all group names.
+
+## Models used 🦾
+- Linear Regression
+- Lasso Regression
+- Ridge Regression
+- ElasticNet CV
+
+## Technologies used 💾
+- Jupyter Notebook
+- Python
+- Git
+
+## [Link to final report](https://docs.google.com/document/d/1RkVIY1f_A61r1zoL2eDe_r9xzNFJhfKKFKhm9LO14bk/edit)
